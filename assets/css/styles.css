@@ -1,0 +1,33 @@
+@import url("style-max.css");
+@import url("style-med.css");
+@import url("style-min.css");
+.headercontainer{
+width:100% !important;
+color:white; 
+}	
+.container{
+width:100% !important;
+color:black;
+}
+#menulogin{
+margin-top:20px;
+}
+#optionswrapper{
+color:black;
+}
+#content{
+margin-top:30px !important;
+}
+.leftdivproduct{
+float: left;
+margin-left:40px;
+}
+.rightdivproduct{
+margin-left:40px;
+float: left;
+margin-top:60px;
+width:30%;
+}
+tfoot tr{
+color:black !important;
+}
